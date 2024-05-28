@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...java 
 - 💞️ I’m looking to collaborate on ... web devlopment 
 - 📫 How to reach me ...by email i.e.anuragakale1@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Anurag
 - ⚡ Fun fact: ...
 
 <!---
