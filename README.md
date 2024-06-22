@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... web devlopment 
 - 📫 How to reach me ...by email i.e.anuragakale1@gmail.com
 - 😄 Pronouns: ...Anurag
-- ⚡ Fun fact: ...
 
 <!---
 Anuragkale0904/Anuragkale0904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
