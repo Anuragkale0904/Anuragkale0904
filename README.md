@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuragkale0904
 - 👀 I’m interested in ...web development and coding
-- 🌱 I’m currently learning ...java 
+- 🌱 I’m currently learning ...Dot net Full Stack
 - 💞️ I’m looking to collaborate on ... web devlopment 
 - 📫 How to reach me ...by email i.e.anuragakale1@gmail.com
 - 😄 Pronouns: ...Anurag
